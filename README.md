@@ -1,8 +1,8 @@
 # 2021.2-MapMarket
-#Integrantes
--Pablo Christianno Silva Guedes 200042416
--Pedro Menezes Rodiguero 190139323
--Samuel Alves Sato 200069322
+# Integrantes
+- Pablo Christianno Silva Guedes 200042416
+- Pedro Menezes Rodiguero 190139323
+- Samuel Alves Sato 200069322
 
 
 
@@ -12,9 +12,9 @@
 
 MapMarket
 
-#VISÃO DO PRODUTO E PROJETO
+# VISÃO DO PRODUTO E PROJETO
 
-##Versão 1.0
+## Versão 1.0
 
 
 Histórico de Revisão
@@ -63,8 +63,8 @@ Autor
 
 
 
-#Sumário
-1	VISÃO GERAL DO PRODUTO	4
+# Sumário
+1 VISÃO GERAL DO PRODUTO	4
 1.1	Declaração do Problema	4
 1.2	Declaração de Posição do Produto	4
 1.3	Objetivos do Produto	4
@@ -85,8 +85,8 @@ Autor
 
 
 
-#VISÃO DO PRODUTO E PROJETO
-##VISÃO GERAL DO PRODUTO
+# VISÃO DO PRODUTO E PROJETO
+## VISÃO GERAL DO PRODUTO
 Declaração do Problema
 Usuários de serviços de entrega de supermercados têm dificuldade em escolher produtos como frutas e legumes, além da comunicação ineficiente caso não haja um produto em estoque
 O problema
@@ -119,13 +119,13 @@ Nosso produto
 Possibilita a criação de uma lista de compras recorrentes, é capaz de agendar uma compra, disponibiliza um chat para a comunicação entre cliente e mercado, contém sistema de pontuação e descontos.
 
 
-##Objetivos do Produto
+## Objetivos do Produto
 Facilitar a integração mercado-cliente no ato da compra.
 Garantir a satisfação do cliente ao comprar produtos hortifruti.
 Fidelizar o cliente ao mercado, por meio de programas de pontos e descontos.
 ABORDAGEM DE DESENVOLVIMENTO DE SOFTWARE
 
-#Metodologia
+# Metodologia
 O grupo optou por usar uma metodologia ágil, essa sendo o Scrum, para o desenvolvimento do software, pois os integrantes do grupo já têm uma maior familiaridade com o método. Por ser uma metodologia ágil os requisitos de software são mais flexíveis tornando mais prático caso o grupo precise fazer alguma modificação, também nos permitirá ter uma visão mais clara dos prazos para cada requisito segundo Ian Sommerville. A comunicação e o sistema menos rigorosos para se dividir cada parte do desenvolvimento dos requisitos, ajudará ao projeto, pois o conhecimento sobre as tecnologias que serão utilizadas está homogêneo entre os integrantes.
 Para o projeto foi pensado em termos sprints de duração de uma semana, um prazo mais confortável para todos do grupo, e terá rotatividade de Scrum Master, Product Owner, e membros do desenvolvimento prático, mas apesar dessa rotatividade quem ficar com esses papéis ainda irá ter participação no desenvolvimento da sprint. O objetivo dessa rotação de papéis é que todos os membros tenham a possibilidade de se familiarizar mais com todas as etapas da metodologia Scrum e assim adquirir mais conhecimento sobre cada área, engajando também no aprimoramento de suas habilidades como líder.
 No âmbito de questões técnicas nossa escolha por um método ágil, é justificada, por estarmos trabalhando com um sistema de médio porte,   uma aplicação web responsiva, que tem vida útil de 4 meses e está sujeito a controle externo. No âmbito de questões humanas, a competência dos desenvolvedores e o conhecimento acerca das tecnologias que serão utilizadas está bem homogênea, Cada desenvolvedor terá responsabilidades individuais, porém todos estarão dispostos a ajudar no desenvolvimento no âmbito de um colega, caso esse esteja tendo dificuldade, ou seja, há uma maior flexibilidade, por último as tecnologias utilizadas para o desenvolvimento do sistema serão o html, css, nodejs, Vscode e GitHub. Já no âmbito de questões organizacionais não será necessário a riqueza de detalhes e grandes especificações antes da implementação do projeto, a entrega incremental com um feedback rápido será possível e de suma importância, o representante do cliente estará sim disposto a trabalhar com a equipe de desenvolvimento, visto que o mesmo será interpretado por um integrante do grupo, e não há nenhuma questão cultural que pode afetar o desenvolvimento do projeto. 
@@ -190,8 +190,8 @@ Realizar Refatoração
 Analisar como o código foi escrito e reescrevê-lo com o objetivo de tornar sua leitura mais fácil, renomeando variáveis, funções etc
  GitHub/Vscode
 
-##LIÇÕES APRENDIDAS
-###Unidade 1
+## LIÇÕES APRENDIDAS
+### Unidade 1
 Entendimento das diversas abordagens para se desenvolver um software ou produto.
 Swebok - Entendimento das disciplinas de desenvolvimento de software.
 SAFe
