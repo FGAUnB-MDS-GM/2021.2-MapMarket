@@ -16,6 +16,7 @@ Syntax highlighted code block
   Usuários de serviços de entrega de supermercados têm dificuldade em escolher produtos como frutas e legumes, além da comunicação ineficiente caso não haja um produto em estoque
 
 ## 1.2 Declaração de Posição do Produto
+
 |Para | Solucionar a dificuldade de comunicação entre mercado e cliente e dar maior autonomia às escolhas |
 |Quem | Utiliza serviços de entrega |
 |O (nome do produto) | MapMarket |
@@ -34,6 +35,7 @@ disponibiliza um chat para a comunicação entre cliente e mercado, contém sist
   Utilizaremos o Método de Scrum Master para a organização e atualização do projeto.
   
  ## 2.2 Processo
+ 
 | Atividade | Objetivo | Papel |
 | --- | --- |
 |Estabelecer os prazos de cada sprint | Escolher os prazos de cada sprint para o desenvolvimento de requisitos | Scrum Master e Project Owner |
@@ -46,6 +48,7 @@ disponibiliza um chat para a comunicação entre cliente e mercado, contém sist
 |Realizar Revisão | Revisar o código do produto de software | Desenvolvedor |
 
 ## 2.3 Procedimentos
+
 |Atividade | Método | Ferramenta |
 | --- | --- |
 |Estabelecer os prazos de cada sprint | planning poker | Planilha excel |
