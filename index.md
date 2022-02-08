@@ -1,3 +1,8 @@
+### Participantes
+Pedro Menezes Rodiguero - 190139323
+Samuel Alves Sato - 200069322
+Pablo Christianno Silva Guedes - 200042416
+
 # 1. VISÃO GERAL DO PRODUTO
 ## 1.1 Declaração do Problema
   Usuários de serviços de entrega de supermercados têm dificuldade em escolher produtos como frutas e legumes, além da comunicação ineficiente caso não haja um produto em estoque
