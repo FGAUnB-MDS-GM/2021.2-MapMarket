@@ -1,16 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/pedro-rodiguero/2021.2-MapMarket/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # 1. VISÃO GERAL DO PRODUTO
 ## 1.1 Declaração do Problema
   Usuários de serviços de entrega de supermercados têm dificuldade em escolher produtos como frutas e legumes, além da comunicação ineficiente caso não haja um produto em estoque
