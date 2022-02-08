@@ -1,7 +1,3 @@
-### Participantes
-Pedro Menezes Rodiguero - 190139323
-Samuel Alves Sato - 200069322
-Pablo Christianno Silva Guedes - 200042416
 
 # 1. VISÃO GERAL DO PRODUTO
 ## 1.1 Declaração do Problema
@@ -63,3 +59,8 @@ disponibiliza um chat para a comunicação entre cliente e mercado, contém sist
   Sommerville, Ian Engenharia de software/ Ian Sommerville; tradução Luiz
   Cláudio Queiroz; revisão técnica Fábio Levy Siqueira. -- 10. ed. -- São Paulo:
   Pearson Education do Brasil, 2018_
+  
+### Participantes
+  Pedro Menezes Rodiguero - 190139323
+  Samuel Alves Sato - 200069322
+  Pablo Christianno Silva Guedes - 200042416
