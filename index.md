@@ -1,4 +1,7 @@
 
+##Releases
+[Release 2](https://github.com/FGAUnB-MDS-GM/2021.2-MapMarket/blob/main/docs/mod2.md)
+
 # 1. VISÃO GERAL DO PRODUTO
 ## 1.1 Declaração do Problema
   Usuários de serviços de entrega de supermercados têm dificuldade em escolher produtos como frutas e legumes, além da comunicação ineficiente caso não haja um produto em estoque
