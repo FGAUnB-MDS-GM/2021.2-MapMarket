@@ -1,5 +1,6 @@
 
 <span style="color:red">Todo esse conteúdo deveria estar no site do projeto.</span>
+<span style="color:red">onde está o vídeo de apresentação da Unidade 2?</span>
 
 # 1. VISÃO GERAL DO PRODUTO
 ## 1.1 Declaração do Problema
