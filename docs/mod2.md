@@ -1,4 +1,6 @@
 
+<span style="color:red">Todo esse conteúdo deveria estar no site do projeto.</span>
+
 # 1. VISÃO GERAL DO PRODUTO
 ## 1.1 Declaração do Problema
 Usuários de serviços de entrega de supermercados têm dificuldade em escolher produtos como frutas e legumes, além da comunicação ineficiente caso não haja um produto em estoque
@@ -51,6 +53,9 @@ Prioridade ALTA diz respeito a histórias com maior grau de importância, maior 
 ---
 ## 1.5 Mínimo Produto Viável (MVP)
 # #ADICIONAR LINK CANVAS MVP
+
+<span style="color:red">onde está o LINK CANVAS MVP?</span>
+
 ###1.5.1 Requisitos Funcionais
 
 	• RF1: Deve ser possível realizar gestão de cliente
@@ -139,6 +144,9 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 - Entendimento das diversas abordagens para se desenvolver um software ou produto.
 - Swebok - Entendimento das disciplinas de desenvolvimento de software.
 - SAFe
+
+<span style="color:red">Lições aprendidas da Unidade 2?</span>
+<span style="color:red">Kanban? dei uma olhada no ZenHub e está bastante desatualizado.</span>
 
 # 5 REFERÊNCIAS BIBLIOGRÁFICAS
 _Swebok v3.0, IEE, GUIDE TO THE SOFTWARE ENGINEERING BODY OF KNOWLEDGE
