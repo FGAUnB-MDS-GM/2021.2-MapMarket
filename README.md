@@ -9,12 +9,22 @@
 | Samuel Alves Sato | 200069322 | https://github.com/samuel-sato |
 
 ## 📄 Nosso projeto
- >   Temos como objetivo melhorar a experiência de compras online. 
- > 
- >   Já se frustrou ao fazer um pedido em um supermercado e o produto recebido 
- >   não é o que você pediu ou não tem a qualidade que esperava? O MapMarket resolve! 🛒 🗺️
- > 
- > ✔️ Nossa equipe desenvolveu uma aplicação web responsiva que resolve esta situação. 
- >   Acesse nossa página para entender melhor: https://fgaunb-mds-gm.github.io/2021.2-MapMarket/
+>   Temos como objetivo melhorar a experiência de compras online.
+>
+>   Já se frustrou ao fazer um pedido em um supermercado e o produto recebido
+>   não é o que você pediu ou não tem a qualidade que esperava? O MapMarket resolve! 🛒 🗺️
+>
+> ✔️ Nossa equipe desenvolveu uma aplicação web responsiva que resolve esta situação.
+>   Acesse nossa página para entender melhor: https://fgaunb-mds-gm.github.io/2021.2-MapMarket/
 
+------------
+## Entregas
+### Unidade 1
+[Visão do Projeto e Projeto](https://docs.google.com/document/d/1nYKrEFrQ-RvtsvPrpBBO0GDyS3-Nt41l/edit?usp=sharing&ouid=115154679935878989151&rtpof=true&sd=true)
+<br>[Vídeo de apresentação](https://youtu.be/vI5FVXeP3TQ)
 
+### Unidade 2
+[Visão do Projeto e Projeto (atualizado)](https://docs.google.com/document/d/1p8wRCPT2l8-6N_G4PgkRZ6Ve3YQLZQ_z/edit?usp=sharing&ouid=115154679935878989151&rtpof=true&sd=true)
+<br>[Backlog](https://github.com/FGAUnB-MDS-GM/2021.2-MapMarket/blob/main/Unidades/Unidade2/backlog.md)
+<br>[Quadro Kanbam]()
+<br>[Quadro Canvas MVP](https://drive.google.com/file/d/1AqyFmC7yzg4m288P_g119njXaOsoBo2u/view?usp=sharing)
