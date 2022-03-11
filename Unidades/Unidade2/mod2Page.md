@@ -4,14 +4,15 @@
 Usuários de serviços de entrega de supermercados têm dificuldade em escolher produtos como frutas e legumes, além da comunicação ineficiente caso não haja um produto em estoque
 
 ## 1.2 Declaração de Posição do Produto
-
-|Para | Solucionar a dificuldade de comunicação entre mercado e cliente e dar maior autonomia às escolhas |
-|Quem | Utiliza serviços de entrega |
-|O (nome do produto) | MapMarket |
-|Que | É capaz possibilitar a criação de listas de compras recorrentes, facilitar a comunicação entre cliente e mercado, e possibilitar escolher o estado de produtos como frutas e verduras |
-|Ao contrário | Supermercado Now, Rappi |
-|Nosso produto | Possibilita a criação de uma lista de compras recorrentes, é capaz de agendar uma compra,               |
-disponibiliza um chat para a comunicação entre cliente e mercado, contém sistema de pontuação e descontos |
+|                                                                                                          |                                                                                                                                                                                      |
+|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Para                                                                                                      | Solucionar a dificuldade de comunicação entre mercado e cliente e dar maior autonomia às escolhas                                                                                     |
+| Quem                                                                                                      | Utiliza serviços de entrega                                                                                                                                                           |
+| O (nome do produto)                                                                                       | MapMarket                                                                                                                                                                             |
+| Que                                                                                                       | É capaz possibilitar a criação de listas de compras recorrentes, facilitar a comunicação entre cliente e mercado, e possibilitar escolher o estado de produtos como frutas e verduras |
+| Ao contrário                                                                                              | Supermercado Now, Rappi                                                                                                                                                               |
+| Nosso produto                                                                                             | Possibilita a criação de uma lista de compras recorrentes, é capaz de agendar uma compra,                                                                                             |
+| disponibiliza um chat para a comunicação entre cliente e mercado, contém sistema de pontuação e descontos |                                                                                                                                                                                       |
 
 ## 1.3 Objetivos do Produto
 1. Facilitar a integração mercado-cliente no ato da compra.
@@ -50,7 +51,7 @@ Prioridade ALTA diz respeito a histórias com maior grau de importância, maior 
 
 ---
 ## 1.5 Mínimo Produto Viável (MVP)
-# #ADICIONAR LINK CANVAS MVP
+### [Canvas MVP](https://drive.google.com/file/d/1AqyFmC7yzg4m288P_g119njXaOsoBo2u/view?usp=sharing)
 ### 1.5.1 Requisitos Funcionais
 
 	• RF1: Deve ser possível realizar gestão de cliente
@@ -122,10 +123,10 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 | Descrição                                                                  | Área/Envolvidos      | Periodicidade | Produtos Gerados      |
 |----------------------------------------------------------------------------|----------------------|---------------|-----------------------|
 | Reunião semanais para alinhamento da equipe e acompanhamento de atividades | 	Equipe do Projeto   | 	Semanal      | 	Relatórios da sprint |
- | Apresentação do progresso da equipe                                        | 	Equipe  e Professor | 	Mensal       | 	Ao fim de cada Módulo |
+| Apresentação do progresso da equipe                                        | 	Equipe  e Professor | 	Mensal       | 	Ao fim de cada Módulo |
 
 
-## 3.4 Gerenciamento de Riscos 
+## 3.4 Gerenciamento de Riscos
 | Risco                  | 	Ação para mitigar                                                                                          |
 |------------------------|-------------------------------------------------------------------------------------------------------------|
 | Horários incompatíveis | 	Organizar agendas semanais em grupo para combater a perda de reuniões por incompatibilidade de horários |
