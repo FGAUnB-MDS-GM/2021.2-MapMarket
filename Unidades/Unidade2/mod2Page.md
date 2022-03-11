@@ -51,7 +51,7 @@ Prioridade ALTA diz respeito a histórias com maior grau de importância, maior 
 ---
 ## 1.5 Mínimo Produto Viável (MVP)
 # #ADICIONAR LINK CANVAS MVP
-###1.5.1 Requisitos Funcionais
+### 1.5.1 Requisitos Funcionais
 
 	• RF1: Deve ser possível realizar gestão de cliente
     • RF2: Deve ser possível realizar gestão de mercados
@@ -139,7 +139,11 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 - Entendimento das diversas abordagens para se desenvolver um software ou produto.
 - Swebok - Entendimento das disciplinas de desenvolvimento de software.
 - SAFe
-
+## 4.2 Unidade 2
+- Definição de requisitos funcionais e não funcionais, e quais destes compõem meu MVP.
+- Estruturação do backlog de acordo com a abordagem ágil SAFe.
+- Identificação de épicos, features, histórias e tasks.
+- Refinamento de histórias de usuário.
 # 5 REFERÊNCIAS BIBLIOGRÁFICAS
 _Swebok v3.0, IEE, GUIDE TO THE SOFTWARE ENGINEERING BODY OF KNOWLEDGE
 Sommerville, Ian Engenharia de software/ Ian Sommerville; tradução Luiz
