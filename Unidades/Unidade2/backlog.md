@@ -1,4 +1,4 @@
-#Requisitos Funcionais
+# Requisitos Funcionais
 
 | Nº   | Requisito                                                                                                       | Prioridade |
 |------|-----------------------------------------------------------------------------------------------------------------|------------|
@@ -15,7 +15,7 @@
 
 #### Obs:
 Prioridade ALTA diz respeito a histórias com maior grau de importância, maior valor de mercado, para o projeto e devem ser implementadas primeiro. Prioridade MÉDIA é relacionada a histórias que apresentam bom valor de mercado, mas não fazem parte do MVP. Prioridade BAIXA apresentam menor grau de importância para o projeto.
-##Requisitos Não Funcionais
+## Requisitos Não Funcionais
 
 | Nº   |Requisitos não Funcionais (Classificação)|Requisitos Não Funcionais|
 |------|-----------------------------------------|-------------------------|
@@ -28,8 +28,8 @@ Prioridade ALTA diz respeito a histórias com maior grau de importância, maior 
 
 ---
 
-##MVP
-###Requisitos Funcionais
+## MVP
+### Requisitos Funcionais
 - RF1: Deve ser possível realizar gestão de cliente
 - RF2: Deve ser possível realizar gestão de mercados
 - RF3: Deve ser possível realizar validação de acesso dos usuários
@@ -37,7 +37,7 @@ Prioridade ALTA diz respeito a histórias com maior grau de importância, maior 
 - RF7: Deve ser possível realizar consulta de produtos
 - RF10: Aplicação terá um sistema de chat online para comunicação cliente-mercado
 
-###Requisitos não Funcionais
+### Requisitos não Funcionais
 - RNF1: Aplicação deve ser web responsiva
 - RNF2: Aplicação deve ser suportada em: Chrome, Safari e Firefox
 - RNF4: A interação com o usuário deverá ser feita por meio de interface gráfica
@@ -45,7 +45,7 @@ Prioridade ALTA diz respeito a histórias com maior grau de importância, maior 
 - RNF6: Aplicação deve possuir um conjunto de dados pré-cadastrados
 
 
-##Backlog
+## Backlog
 
 | Feature | ID  | História | Prioridade |
 |---------|-----|----------|------------|
