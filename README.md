@@ -28,3 +28,10 @@
 <br>[Backlog](https://github.com/FGAUnB-MDS-GM/2021.2-MapMarket/blob/main/Unidades/Unidade2/backlog.md)
 <br>[Quadro Kanbam]()
 <br>[Quadro Canvas MVP](https://drive.google.com/file/d/1AqyFmC7yzg4m288P_g119njXaOsoBo2u/view?usp=sharing)
+
+### Unidade 3
+[Visão de Projeto e Produto (Atualizado)](https://docs.google.com/document/d/1rccttzODq1Ow4u2UM4vCHDkpEIWoQpZ4/edit?usp=sharing&ouid=115154679935878989151&rtpof=true&sd=true)
+<br>[Modelo de Classes de Produto](https://github.com/FGAUnB-MDS-GM/2021.2-MapMarket/blob/main/Unidades/Unidade3/diagramaClasses.pdf)
+<br>[Modelo de Arquitetura (Visão Lógica)](https://github.com/FGAUnB-MDS-GM/2021.2-MapMarket/blob/main/Unidades/Unidade3/MVC.pdf)
+<br>[Protótipos de Interface](https://drive.google.com/file/d/1aJa-w2QGtFWDUGolxAVvCP7wULrpjyb2/view?usp=sharing)
+<br>[Vídeo de apresentação das entregas]()
