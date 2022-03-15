@@ -60,9 +60,9 @@ disponibiliza um chat para a comunicação entre cliente e mercado, contém sist
 
 ## 3.2 Arquitetura de projeto
   - Será utilizada arquitetura MVC (model-view-controller)
-    -> Model: Camada responsável pela lógica e regras de negócio, relacionamento com o banco de dados;
-    -> View: Camada de apresentação visual das informações (front-end);
-    -> Controller: Camada de intermediação entre Model e View, validar algumas operações;
+    - Model: Camada responsável pela lógica e regras de negócio, relacionamento com o banco de dados;
+    - View: Camada de apresentação visual das informações (front-end);
+    - Controller: Camada de intermediação entre Model e View, validar algumas operações;
 
 # 4 REFERÊNCIAS BIBLIOGRÁFICAS
   _Swebok v3.0, IEE, GUIDE TO THE SOFTWARE ENGINEERING BODY OF KNOWLEDGE
