@@ -55,16 +55,18 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 
 
 ## 2.4 Canvas MVP
+<img src="docs/Canvas MVP (1).png" alt="hi" class="inline"/>
 
 ## 2.4 Arquitetura de projeto
 Será utilizada arquitetura MVC (model-view-controller)
   - Model: Camada responsável pela lógica e regras de negócio, relacionamento com o banco de dados;
   - View: Camada de apresentação visual das informações (front-end);
   - Controller: Camada de intermediação entre Model e View, validar algumas operações;
-
+<img src="docs/arquiteturaMVC.png" alt="hi" class="inline"/>
 
 ## 2.5 Diagrama de Classes
 
+<img src="docs/diagramaDeClasses.png" alt="hi" class="inline"/>
 
 ## 2.6 Padrões de Projeto
 ### Padrão de criação:
