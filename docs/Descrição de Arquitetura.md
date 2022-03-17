@@ -1,4 +1,4 @@
-#Descrição da Arquitetura de Software
+# Descrição da Arquitetura de Software
 
 A arquitetura Model-View-Controller foi escolhida por ter uma organização clara e por prover uma boa manutenibilidade, já que as responsabilidades de cada camada são bem divididas.
 
