@@ -1,7 +1,6 @@
 
 ## Releases
-[Release 2](https://github.com/FGAUnB-MDS-GM/2021.2-MapMarket/blob/main/docs/mod2.md)
-<br>
+
 [Video Release 1](https://youtu.be/vI5FVXeP3TQ)
 
 # 1. VISÃO GERAL DO PRODUTO
