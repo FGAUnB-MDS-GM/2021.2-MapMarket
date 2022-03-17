@@ -77,6 +77,8 @@ Será utilizada arquitetura MVC (model-view-controller)
 ### Padrões comportamentais:
 - Strategy: Para possível aplicação de cupons de desconto e resgate de pontuações, aplicar descontos.
 
+## 2.7 Padrões de Interface
+[Padrões de Interface](https://github.com/FGAUnB-MDS-GM/2021.2-MapMarket/blob/main/docs/Padr%C3%B5es%20da%20Interface.md)
 
 # 3 LIÇÕES APRENDIDAS
 ## 3.1 Unidade 1
