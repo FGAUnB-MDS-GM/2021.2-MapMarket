@@ -1,7 +1,8 @@
 
 ## Releases
 [Release 2](https://github.com/FGAUnB-MDS-GM/2021.2-MapMarket/blob/main/docs/mod2.md)
-<br>[Video Release 1](https://youtu.be/vI5FVXeP3TQ)
+<br>
+[Video Release 1](https://youtu.be/vI5FVXeP3TQ)
 
 # 1. VISÃO GERAL DO PRODUTO
 ## 1.1 Declaração do Problema
@@ -54,17 +55,16 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 
 
 ## 2.4 Canvas MVP
-[Canvas MVP](https://drive.google.com/file/d/1AqyFmC7yzg4m288P_g119njXaOsoBo2u/view?usp=sharing)
+
 ## 2.4 Arquitetura de projeto
 Será utilizada arquitetura MVC (model-view-controller)
   - Model: Camada responsável pela lógica e regras de negócio, relacionamento com o banco de dados;
   - View: Camada de apresentação visual das informações (front-end);
   - Controller: Camada de intermediação entre Model e View, validar algumas operações;
 
-![Captura de tela de 2022-03-14 23-59-50](https://user-images.githubusercontent.com/69944666/158743822-e5b73193-f231-4140-9afe-d317f5afea8c.png)
 
 ## 2.5 Diagrama de Classes
-![Captura de tela de 2022-03-17 01-49-47](https://user-images.githubusercontent.com/69944666/158743558-016f045a-1328-48fa-9694-a0bd016ebce8.png)
+
 
 ## 2.6 Padrões de Projeto
 ### Padrão de criação:
