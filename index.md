@@ -61,10 +61,10 @@ Será utilizada arquitetura MVC (model-view-controller)
   - View: Camada de apresentação visual das informações (front-end);
   - Controller: Camada de intermediação entre Model e View, validar algumas operações;
 
-![img.png](img.png)
+![Captura de tela de 2022-03-14 23-59-50](https://user-images.githubusercontent.com/69944666/158743822-e5b73193-f231-4140-9afe-d317f5afea8c.png)
 
 ## 2.5 Diagrama de Classes
-![img_1.png](img_1.png)
+![Captura de tela de 2022-03-17 01-49-47](https://user-images.githubusercontent.com/69944666/158743558-016f045a-1328-48fa-9694-a0bd016ebce8.png)
 
 ## 2.6 Padrões de Projeto
 ### Padrão de criação:
