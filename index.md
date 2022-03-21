@@ -55,7 +55,7 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 
 
 ## 2.4 Canvas MVP
-[Canvas MVP](docs/Canvas MVP (1).png)
+<img src="docs/Canvas MVP (1).png" alt="Canvas MVP" class="inline"/>
 
 ## 2.4 Arquitetura de projeto
 Será utilizada arquitetura MVC (model-view-controller)
