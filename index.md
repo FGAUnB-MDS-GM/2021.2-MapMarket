@@ -62,10 +62,10 @@ Será utilizada arquitetura MVC (model-view-controller)
   - Model: Camada responsável pela lógica e regras de negócio, relacionamento com o banco de dados;
   - View: Camada de apresentação visual das informações (front-end);
   - Controller: Camada de intermediação entre Model e View, validar algumas operações;
-<img src="docs/arquiteturaMVC.png" alt="Arquitetura MVC" class="inline"/>
+<img src="docs/ArquiteturaMVC.jpg" alt="Arquitetura MVC" class="inline"/>
 
 ## 2.5 Diagrama de Classes
-[Diagrama de classes](docs/diagramaDeClasses.png)
+<img src="docs/diagramaDeClasses.png" alt="Diagrama de classes" class="inline"/>
 
 ## 2.6 Padrões de Projeto
 ### Padrão de criação:
