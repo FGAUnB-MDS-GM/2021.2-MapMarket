@@ -28,16 +28,16 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 
 ## 2.2 Processo
 
-| Atividade | Objetivo | Papel |
-| --- | --- |
-|Estabelecer os prazos de cada sprint | Escolher os prazos de cada sprint para o desenvolvimento de requisitos | Scrum Master e Project Owner |
-|Realizar escopo do produto | Escolhas de todas as características do produto | Product Owner e Equipe de Desenvolvimento |
-|Realizar prototipagem | Fazer o protótipo das páginas que será seguido para o desenvolvimento do software | Desenvolvedor |
-|Realizar estudo das Tecnologias | Estudar as tecnologias utilizadas para o desenvolvimento de software | Desenvolvedor |
-|Realizar o desenvolvimento dos requisitos | Desenvolver os requisitos do produto | Desenvolvedor |
-|Realizar versionamento | Criar versões do projeto para o Product Owner e o Scrum Master, poderem ter uma visão mais próxima do desenvolvimento do produto, além de ter uma versão beta para poder testar| Desenvolvedor |
-|Realizar Refatoração | Melhorar o entendimento e qualidade do código do produto de software | Desenvolvedor |
-|Realizar Revisão | Revisar o código do produto de software | Desenvolvedor |
+| Atividade                                 | Objetivo                                                                                                                                                                        | Papel                                     |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Estabelecer os prazos de cada sprint      | Escolher os prazos de cada sprint para o desenvolvimento de requisitos                                                                                                          | Scrum Master e Project Owner              |
+| Realizar escopo do produto                | Escolhas de todas as características do produto                                                                                                                                 | Product Owner e Equipe de Desenvolvimento |
+| Realizar prototipagem                     | Fazer o protótipo das páginas que será seguido para o desenvolvimento do software                                                                                               | Desenvolvedor                             |
+| Realizar estudo das Tecnologias           | Estudar as tecnologias utilizadas para o desenvolvimento de software                                                                                                            | Desenvolvedor                             |
+| Realizar o desenvolvimento dos requisitos | Desenvolver os requisitos do produto                                                                                                                                            | Desenvolvedor                             |
+| Realizar versionamento                    | Criar versões do projeto para o Product Owner e o Scrum Master, poderem ter uma visão mais próxima do desenvolvimento do produto, além de ter uma versão beta para poder testar | Desenvolvedor                             |
+| Realizar Refatoração                      | Melhorar o entendimento e qualidade do código do produto de software                                                                                                            | Desenvolvedor                             |
+| Realizar Revisão                          | Revisar o código do produto de software                                                                                                                                         | Desenvolvedor                             |
 
 ## 2.3 Procedimentos
 
@@ -55,26 +55,26 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 # 3 VISÃO GERAL DO PROJETO
 ## 3.1 Organização do Projeto
 
-| Papel                 |Atribuições|Responsável|Participantes|
-|-----------------------|-----------|-----------|-------------|
-| Desenvolvedor         |Codificar o produto, realizar refatoração, realizar teste dos códigos|Pedro|Pablo, Samuel|
-| Dono do Produto       |Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas|Samuel|Pablo, Pedro|
-| Analista de Qualidade |Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código|Pablo|Pedro, Samuel|
-| Scrum master          |Gerenciar a equipe de desenvolvimento, organizar reuniões entre a equipe de desenvolvimento e o dono do produto, garante que a estrutura do projeto seja seguido|Pedro|Pablo, Samuel|
+| Papel                 | Atribuições                                                                                                                                                      | Responsável | Participantes |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------|
+| Desenvolvedor         | Codificar o produto, realizar refatoração, realizar teste dos códigos                                                                                            | Pedro       | Pablo, Samuel |
+| Dono do Produto       | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas                                                                               | Samuel      | Pablo, Pedro  |
+| Analista de Qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código                                                      | Pablo       | Pedro, Samuel |
+| Scrum master          | Gerenciar a equipe de desenvolvimento, organizar reuniões entre a equipe de desenvolvimento e o dono do produto, garante que a estrutura do projeto seja seguido | Pedro       | Pablo, Samuel |
 
 ## 3.2 Planejamento das Fases e/ou Iterações do Projeto
-| Sprint   |Produto (Entrega)|Data Início|Data Fim|
-|----------|-----------------|-----------|--------|
-| Sprint 1 |Definição do Produto|18/01/22|03/02/22|
-| Sprint 2 |MVP e Planejamento do Projeto|08/02/22|24/02/22|
-| Sprint 3 |Cadastro de cliente, cadastro de mercado, editar informações de cliente e mercado|01/03/22|17/03/22|
-| Sprint 4 |Cadastrar produto, editar informações de produto, buscar produto|06/03/22|12/03/22|
-| Sprint 5 |Criar lista de compras, criar lista de compras recorrentes|13/03/22|19/03/22|
-| Sprint 6 | Finalização de compras, realizar login e logout                                             | 20/03/22                                                                                    | 26/03/22                                                                                    |
-| Sprint 7 | implementar chat online| 27/03/22                                               | 02/04/22                                                                                    |
-| Sprint 8 | Deletar lista de compras, editar lista de compras| 03/04/22| 09/04/22|
-| Sprint 9 | atribuir pontos por compras ao cliente, Trocar pontos por descontos | 10/04/22| 16/04/22|
- |Sprint 10| Agendar compras, Adicionar comentário em um produto da lista de compras, excluir comentário| 17/04/22| 23/04/22 |
+| Sprint    | Produto (Entrega)                                                                           | Data Início | Data Fim |
+|-----------|---------------------------------------------------------------------------------------------|-------------|----------|
+| Sprint 1  | Definição do Produto                                                                        | 18/01/22    | 03/02/22 |
+| Sprint 2  | MVP e Planejamento do Projeto                                                               | 08/02/22    | 24/02/22 |
+| Sprint 3  | Cadastro de cliente, cadastro de mercado, editar informações de cliente e mercado           | 01/03/22    | 17/03/22 |
+| Sprint 4  | Cadastrar produto, editar informações de produto, buscar produto                            | 06/03/22    | 12/03/22 |
+| Sprint 5  | Criar lista de compras, criar lista de compras recorrentes                                  | 13/03/22    | 19/03/22 |
+| Sprint 6  | Finalização de compras, realizar login e logout                                             | 20/03/22    | 26/03/22 |
+| Sprint 7  | implementar chat online                                                                     | 27/03/22    | 02/04/22 |
+| Sprint 8  | Deletar lista de compras, editar lista de compras                                           | 03/04/22    | 09/04/22 |
+| Sprint 9  | atribuir pontos por compras ao cliente, Trocar pontos por descontos                         | 10/04/22    | 16/04/22 |
+ | Sprint 10 | Agendar compras, Adicionar comentário em um produto da lista de compras, excluir comentário | 17/04/22    | 23/04/22 |
 
 
 ## 3.3 Matriz de Comunicação
