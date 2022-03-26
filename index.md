@@ -106,7 +106,8 @@ Será utilizada arquitetura MVC (model-view-controller)
 <img src="docs/ArquiteturaMVC.jpg" alt="Arquitetura MVC" class="inline"/>
 
 ## 3.8 Diagrama de Classes
-<img src="docs/diagramaDeClasses.png" alt="Diagrama de classes" class="inline"/>
+
+![diagramaDeClasses](https://user-images.githubusercontent.com/69944666/160245353-5a0a05e3-5775-4e88-95f6-404f219b210b.png)
 
 ## 3.9 Padrões de Projeto
 ### Padrão de criação:
