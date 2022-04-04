@@ -2,6 +2,7 @@ const express = require('express')
 const { DbContection } = require('./db/db')
 const db = require('./db/db')
 const app = express()
+const bodyParser = require('body-parser')
 const user = require('./rotas/user')
 
 //mongo
@@ -67,14 +68,17 @@ const Subcategoria = mongoose.model('subCategorias')
         console.log("PROD")
     })
     */
+//config
+app.use(bodyParser.urlencoded({extended: false}))
+app.use(bodyParser.json())
+
 //rotas
     app.use('/user', user)
 
 app.get("/", (req,res)=>{
     res.send("index")
-    console.log(Produto.find({}))
 })
 
-app.listen(3000, ()=>{
+app.listen(4000, ()=>{
     console.log("rodando")
 })

@@ -87,8 +87,9 @@ router.get("/listaComprasReco/:idListaCompras", (req, res)=>{
 })
 
 //cadastrar lista de compras
-router.post('/listaCompras', (req,res)=>{
-    //terminar
+router.post('/login', (req,res)=>{
+    console.log(req.body.email)
+    res.send("recebido")
 })
 
 module.exports = router
