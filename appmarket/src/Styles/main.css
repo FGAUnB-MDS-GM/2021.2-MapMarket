@@ -1,0 +1,55 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+header{
+    position: fixed;
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    height: 165px;
+    width: 1440px;
+    background-color: #0589D5;  
+}
+
+footer{
+    position: fixed;
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    height: 203px;
+    width: 1440px;
+    background-color: #0589D5;
+    text-align: center;
+}
+
+.textoHome{
+    top: 230px;
+    height: 287px;
+    width: 496px;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.texto{
+    font-size: 30px;
+    text-align: justify;
+}
+
+button{
+    height: 76px;
+    width: 322px;
+    text-align: center;
+}
+
+.btnSMercado{
+    background-color: #EB5757;
+}
+.btnCliente{
+    background-color: #F2C94C;
+}
