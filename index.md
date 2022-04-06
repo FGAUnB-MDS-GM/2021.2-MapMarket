@@ -52,6 +52,34 @@ Utilizaremos o Método de Scrum Master para a organização e atualização do p
 | Realizar Refatoração                      | Melhorar o entendimento e qualidade do código do produto de software                                                                 | Desenvolvedor                        |
 | Realizar Revisão                          | Analisar como o código foi escrito e reescrevê-lo com o objetivo de tornar sua leitura mais fácil, renomeando variáveis, funções etc | GitHub/VsCode                        |
 
+## 2.4 Backlog
+
+| ÉPICO   | FEATURE           | ID  | HISTÓRIA                                                                         | PRIORIDADE |
+|---------|-------------------|-----|------------------------------------------------------------------------------------|----------|
+| Cliente | Gestão de Cliente | R1  | Eu, como usuário, desejo me cadastrar como cliente na plataforma                   | ALTA     |
+| Cliente | Gestão de Cliente | R2  | Eu, como cliente, desejo editar minhas informações na plataforma                   | ALTA     |
+| Mercado | Gestão de Mercado | R3  | Eu, como usuário, desejo me cadastrar como mercado na plataforma                   | ALTA     |
+| Mercado | Gestão de Mercado | R4  | Eu, como mercado, desejo editar minhas informações na plataforma                   | ALTA     |
+| Mercado | Gestão de Mercado | R5  | Eu, como mercado, desejo me cadastrar produto na plataforma                        | ALTA     |
+| Mercado | Gestão de Mercado | R6  | Eu, como mercado, desejo editar informações de produto na plataforma               | ALTA     |
+| Usuário | Gestão de Usuário | R7  | Eu, como usuário, desejo realizar login na plataforma                              | ALTA     |
+| Usuário | Gestão de Usuário | R8  | Eu, como usuário, desejo realizar logout na plataforma                             | ALTA     |
+| Cliente | Gestão de Compras | R9  | Eu, como cliente, desejo criar lista de compras                                    | ALTA     |
+| Cliente | Gestão de Compras | R10 | Eu, como cliente, desejo criar lista de compras recorrentes                        | ALTA     |
+| Cliente | Gestão de Compras | R11 | Eu, como cliente, desejo editar lista de compras recorrentes                       | MÉDIA    |
+| Cliente | Gestão de Compras | R12 | Eu, como cliente, desejo deletar lista de compras recorrentes                      | MÉDIA    |
+| Cliente | Gestão de Compras | R13 | Eu, como cliente, desejo realizar compra de uma lista de compras                   | ALTA     |
+| Cliente | Gestão de Compras | R14 | Eu, como cliente, desejo agendar compra de uma lista de compras                    | BAIXA    |
+| Cliente | Buscas            | R15 | Eu, como cliente, desejo realizar busca por produtos especificando os parâmetros   | ALTA     |
+| Cliente | Gestão de Compras | R16 | Eu, como cliente, desejo adicionar comentário a um produto da lista de compras     | BAIXA    |
+| Cliente | Gestão de Compras | R17 | Eu, como cliente, desejo excluir comentário a um produto da lista de compras       | BAIXA    |
+| Cliente | Gestão de Cliente | R18 | Eu, como cliente, desejo receber pontos por compras realizadas                     | MÉDIA    |
+| Cliente | Gestão de Cliente | R19 | Eu, como cliente, desejo trocar pontos por compras realizadas por descontos        | MÉDIA    |
+| Usuário | Gestão de Usuário | R20 | Eu, como cliente, desejo me comunicar com mercado por chat online                  | ALTA     |
+| Mercado | Gestão de Mercado | R21 | Eu, como mercado, desejo me comunicar com cliente por chat online                  | ALTA     |
+
+Obs: Prioridade ALTA diz respeito a histórias com maior grau de importância, maior valor de mercado, para o projeto e devem ser implementadas primeiro. Prioridade MÉDIA é relacionada a histórias que apresentam bom valor de mercado, mas não fazem parte do MVP. Prioridade BAIXA apresentam menor grau de importância para o projeto.
+ 
 # 3 VISÃO GERAL DO PROJETO
 ## 3.1 Organização do Projeto
 
