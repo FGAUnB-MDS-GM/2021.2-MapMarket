@@ -1,6 +1,6 @@
 import React from 'react'
 
-function LoginClint(){
+function LoginSM(){
     return(
 
         <div className='main'>
@@ -12,10 +12,10 @@ function LoginClint(){
                 <div className='TextoHome'>
                     <h1>Login</h1>
                     <form>
-                        <label for='femail'>Email:</label><br/>
-                        <input type='text' id='femail' name='femail'></input>
-                        <label for='fsenha'>Senha:</label><br/>
-                        <input type='text' id='fsenha' name='fsenha'></input>
+                        <label for='email'>Email:</label><br/>
+                        <input type='text' id='email' name='email'></input>
+                        <label for='senha'>Senha:</label><br/>
+                        <input type='text' id='senha' name='senha'></input>
                     </form>
                     <div className='botoes'>
                         <button className='btnEntrar'>Entrar</button>
@@ -31,4 +31,4 @@ function LoginClint(){
     )
 }
 
-export default LoginClient
+export default LoginSM
